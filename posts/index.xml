@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ADITI NAIR</title>
-    <link>/posts/</link>
+    <link>https://addynair.github.io/posts/</link>
     <description>Recent content in Posts on ADITI NAIR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 17:40:55 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 17:40:55 +0530</lastBuildDate><atom:link href="https://addynair.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Hugo Website</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://addynair.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 27 Aug 2023 17:40:55 +0530</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://addynair.github.io/posts/my-first-post/</guid>
       <description>In this blog post, I&amp;rsquo;m excited to share my first-ever attempt at writing in a technical and descriptive format. The inspiration for this post comes from my experience creating a website using Hugo. Before this project, my familiarity was limited to HTML and CSS. I can&amp;rsquo;t wait to share my journey and insights with you all!
 Hugo stands as a static site generator, offering an array of complimentary themes. It simplifies the process of crafting captivating websites without necessitating manual code creation.</description>
     </item>
